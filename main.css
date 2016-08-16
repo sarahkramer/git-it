@@ -1996,10 +1996,13 @@
 				width: 1em;
 			}
 			
-			ul.featured-icons li .icon:hover {
-				transform: rotateY(180deg);
-			}
-
+.fa-spin-hover:hover {
+  -webkit-animation: spin 2s infinite linear;
+  -moz-animation: spin 2s infinite linear;
+  -o-animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
+}
+			
 	ul.buttons {
 		cursor: default;
 	}
