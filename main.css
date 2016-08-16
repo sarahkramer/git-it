@@ -1995,6 +1995,10 @@
 				line-height: 1.25em;
 				width: 1em;
 			}
+			
+			ul.featured-icons li .icon:hover {
+				transform: rotateY(180deg);
+			}
 
 	ul.buttons {
 		cursor: default;
