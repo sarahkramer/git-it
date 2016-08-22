@@ -144,9 +144,9 @@
 	@media screen and (max-width: 980px) {
 
 		.container.\31 25\25 {
-			width: auto;
-			max-width: auto;
-			min-width: auto;
+			width: 100%;
+			max-width: 118.75%;
+			min-width: 95%;
 		}
 
 		.container.\37 5\25 {
@@ -170,9 +170,9 @@
 	@media screen and (max-width: 840px) {
 
 		.container.\31 25\25 {
-			width: auto;
-			max-width: auto;
-			min-width: auto;
+			width: 100%;
+			max-width: 118.75%;
+			min-width: 95%;
 		}
 
 		.container.\37 5\25 {
