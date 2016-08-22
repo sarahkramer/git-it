@@ -2456,8 +2456,7 @@
 				url("https://sarahkramer.github.io/git-it/mtn-banner.jpg");
 			background-position: bottom left, bottom right, top center;
 			background-repeat: no-repeat, no-repeat, no-repeat;
-			background-size: 25em, 25em, cover
-			;
+			background-size: cover;
 			color: #fff;
 			cursor: default;
 			padding: 6em 0;
