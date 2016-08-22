@@ -2453,7 +2453,7 @@
 				url("https://sarahkramer.github.io/git-it/mtn-banner.jpg");
 			background-position: bottom left, bottom right, top center;
 			background-repeat: no-repeat, no-repeat, no-repeat;
-			background-size: 100%;
+			background-size: auto;
 			color: #fff;
 			cursor: default;
 			padding: 6em 0;
@@ -2748,7 +2748,7 @@
 		/* Banner */
 
 			#banner {
-				background-size: 100%;
+				background-size: auto;
 			}
 
 		/* Main */
