@@ -2103,7 +2103,7 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #6c67bc !important;
+				background: rgba(108, 103, 188, .5) !important;
 				border-color: #fff !important;
 			}
 
