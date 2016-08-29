@@ -3096,16 +3096,11 @@
 
 /* Banner */
 
-	/*@media screen and (max-width: 982px) {
+	@media screen and (max-width: 982px) {
 			
-			#banner {
-
-				background-image: url("../../images/banner-small.jpg");
+			#banner:not(.inner) {
 				background-size: cover;
-				background-position: center;
-				background-repeat: no-repeat;
-
-			} */
+			}
 
 
 		/* Section/Article */
