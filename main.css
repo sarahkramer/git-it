@@ -1695,7 +1695,7 @@
 			content: '';
 			height: 7px;
 			opacity: 0.1;
-			position: absolute;
+			position: relative;
 			top: 1.75em;
 			width: 43%;
 		}
