@@ -1913,15 +1913,6 @@
 					background: #df93b8
 				}
 
-			.icon.circle.fa-snapchat {
-				background: #F2D34B;
-				color: #fff;
-			}
-
-				.icon.circle.fa-snapchat:hover {
-					background: #FFE678;
-				}
-
 		.icon.featured {
 			cursor: default;
 			display: block;
